@@ -3,6 +3,7 @@
 <suite name="Testing" thread-count="4" parallel="methods">
     <listeners>
         <listener class-name="RetryListener"/>
+        <listener class-name="TestListener"/>
     </listeners>
     <test name="Regression">
         <groups>

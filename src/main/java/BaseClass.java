@@ -1,5 +1,3 @@
-import com.relevantcodes.extentreports.ExtentReports;
-import com.relevantcodes.extentreports.ExtentTest;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -19,17 +17,10 @@ public class BaseClass {
     public static WebDriver driver;
     public static Properties prop;
     public static HashMap<String, String> mymap;
-    static ExtentTest test;
-    static ExtentReports report;
-    @BeforeClass
-    public static void startTest()
-    {
-        report = new ExtentReports(System.getProperty("user.dir")+"ExtentReportResults.html");
-        test = report.startTest("ExtentDemo");
-    }
 
 
-    @BeforeTest()
+
+   // @BeforeTest()
     public void setupBrowser() {
         System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\browserDrivers\\chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
