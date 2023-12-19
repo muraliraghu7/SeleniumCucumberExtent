@@ -2,6 +2,8 @@ import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.*;
 
@@ -19,19 +21,35 @@ public class BaseClass {
     public static HashMap<String, String> mymap;
 
 
+    @BeforeTest(alwaysRun = true)
+    @Parameters("browser")
+    public void setupBrowser(String browser) {
+        if (browser.equalsIgnoreCase("chrome")) {
+            System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\browserDrivers\\chromedriver.exe");
+            ChromeOptions options = new ChromeOptions();
+            options.addArguments("--incognito");
+            options.addArguments("start-maximized");
+            DesiredCapabilities capabilities = new DesiredCapabilities();
+            capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+            capabilities.setBrowserName("chrome");
+            options.merge(capabilities);
+            Log.info("Launching browser");
+            driver = new ChromeDriver(options);
 
-   // @BeforeTest()
-    public void setupBrowser() {
-        System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\browserDrivers\\chromedriver.exe");
-        ChromeOptions options = new ChromeOptions();
-        options.addArguments("--incognito");
-        options.addArguments("start-maximized");
-        DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
-        capabilities.setBrowserName("chrome");
-        options.merge(capabilities);
-        Log.info("Launching browser");
-        driver = new ChromeDriver(options);
+        } else if (browser.equalsIgnoreCase("firefox")) {
+            System.setProperty("webdriver.gecko.driver","src\\main\\resources\\browserDrivers\\geckodriver.exe");
+            FirefoxOptions options = new FirefoxOptions();
+            options.addArguments("--incognito");
+            options.addArguments("start-maximized");
+            DesiredCapabilities capabilities = new DesiredCapabilities();
+            capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+            capabilities.setBrowserName("firefox");
+            options.merge(capabilities);
+            Log.info("Launching browser");
+            driver = new FirefoxDriver(options);
+
+
+        }
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 
@@ -45,18 +63,20 @@ public class BaseClass {
             prop = new Properties();
             FileInputStream ip = new FileInputStream(System.getProperty("user.dir") + "\\src\\main\\resources\\parameters.properties");
             prop.load(ip);
-            mymap= new HashMap<String, String>((Map) prop);
+            mymap = new HashMap<String, String>((Map) prop);
         } catch (IOException e) {
             e.printStackTrace();
         }
 
     }
-    //@AfterSuite
-    public void tearDown()
-    {
+
+    @AfterSuite
+    public void tearDown() {
         driver.quit();
     }
+
     @AfterTest
-    public void testEnds()
-    {Log.info("*********************** Test Ends here ************************");}
+    public void testEnds() {
+        Log.info("*********************** Test Ends here ************************");
+    }
 }

@@ -6,11 +6,9 @@
         <listener class-name="TestListener"/>
     </listeners>
     <test name="Regression">
-        <groups>
-            <run>
-                <exclude name="smoke"></exclude>
-            </run>
-        </groups>
+        <parameter name="browser" value="firefox"></parameter>
+
+
         <classes>
             <class name="SampleTest"/>
             <class name="SampleTest1"/>

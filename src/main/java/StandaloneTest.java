@@ -22,6 +22,16 @@ public class StandaloneTest extends BaseClass {
         driver.findElement(By.id("login")).click();
 
     }
+    public static void login2(String username, String password) {
+        Log.startTestCase("login test");
+
+        driver.get("https://rahulshettyacademy.com/client/");
+        Log.info("Opening the url");
+        driver.findElement(By.id("userEmail")).sendKeys(username);
+        driver.findElement(By.id("userPassword")).sendKeys(password);
+        driver.findElement(By.id("login")).click();
+
+    }
     public static void logout()
     {
         Log.info("Going to Logout");
