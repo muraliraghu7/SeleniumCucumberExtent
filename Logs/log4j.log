@@ -1,0 +1,281 @@
+2023-12-17 16:36:46 INFO  Log:13 - Launching browser
+2023-12-17 16:36:52 INFO  Log:13 - Opening the url
+2023-12-17 16:38:56 INFO  Log:13 - Launching browser
+2023-12-17 16:38:59 INFO  Log:13 - =====================================login test TEST START=========================================
+2023-12-17 16:39:00 INFO  Log:13 - Opening the url
+2023-12-17 16:39:54 INFO  Log:13 - Launching browser
+2023-12-17 16:39:58 INFO  Log:13 - =====================================login test TEST START=========================================
+2023-12-17 16:39:59 INFO  Log:13 - Opening the url
+2023-12-17 16:48:12 INFO  Log:16 - Launching browser
+2023-12-17 16:48:16 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-17 16:48:17 INFO  Log:16 - Opening the url
+2023-12-17 16:48:17 INFO  Log:16 - Going to Logout
+2023-12-17 16:50:04 INFO  Log:16 - Launching browser
+2023-12-17 16:50:08 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-17 16:50:10 INFO  Log:16 - Opening the url
+2023-12-17 16:50:10 INFO  Log:16 - Going to Logout
+2023-12-17 16:50:10 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-17 16:51:53 INFO  Log:16 - Launching browser
+2023-12-17 16:51:56 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-17 16:51:57 INFO  Log:16 - Opening the url
+2023-12-17 16:51:58 INFO  Log:16 - Going to Logout
+2023-12-17 16:52:03 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-17 16:52:33 INFO  Log:16 - Launching browser
+2023-12-17 16:52:37 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-17 16:52:39 INFO  Log:16 - Opening the url
+2023-12-17 16:52:39 INFO  Log:16 - Going to Logout
+2023-12-17 16:52:45 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-17 16:53:03 INFO  Log:16 - Launching browser
+2023-12-17 16:53:06 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-17 16:53:09 INFO  Log:16 - Opening the url
+2023-12-17 16:53:09 INFO  Log:16 - Going to Logout
+2023-12-17 16:53:15 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-17 18:09:03 INFO  Log:16 - Launching browser
+2023-12-17 18:09:07 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-17 18:09:09 INFO  Log:16 - Opening the url
+2023-12-17 18:09:09 INFO  Log:16 - Going to Logout
+2023-12-17 18:09:14 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-17 21:41:46 INFO  Log:16 - Launching browser
+2023-12-17 21:41:49 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-17 21:41:52 INFO  Log:16 - Opening the url
+2023-12-17 21:41:53 INFO  Log:16 - Going to Logout
+2023-12-17 21:41:58 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-18 21:29:27 INFO  Log:16 - Launching browser
+2023-12-18 21:29:31 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-18 21:29:32 INFO  Log:16 - Opening the url
+2023-12-18 21:29:33 INFO  Log:16 - Going to Logout
+2023-12-18 21:29:38 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-18 21:29:38 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-18 21:29:38 INFO  Log:16 - Opening the url
+2023-12-18 21:29:39 INFO  Log:16 - Going to Logout
+2023-12-18 21:29:44 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-18 21:29:44 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-18 21:29:44 INFO  Log:16 - Opening the url
+2023-12-18 21:29:45 INFO  Log:16 - Going to Logout
+2023-12-18 21:29:50 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-18 21:32:06 INFO  Log:16 - Launching browser
+2023-12-18 21:32:10 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-18 21:32:19 INFO  Log:16 - Opening the url
+2023-12-18 21:33:19 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-18 21:33:20 INFO  Log:16 - Opening the url
+2023-12-18 21:39:06 INFO  Log:16 - Launching browser
+2023-12-18 21:39:10 INFO  Log:16 - In first test
+2023-12-18 21:39:10 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-18 21:39:12 INFO  Log:16 - Opening the url
+2023-12-18 21:39:12 INFO  Log:16 - Going to Logout
+2023-12-18 21:39:17 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-18 21:39:17 INFO  Log:16 - in second test
+2023-12-18 21:39:17 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-18 21:39:18 INFO  Log:16 - Opening the url
+2023-12-18 21:39:18 INFO  Log:16 - Going to Logout
+2023-12-18 21:39:23 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-18 21:39:23 INFO  Log:16 - In third test
+2023-12-18 21:39:23 INFO  Log:16 - =====================================login test TEST START=========================================
+2023-12-18 21:39:24 INFO  Log:16 - Opening the url
+2023-12-18 21:39:24 INFO  Log:16 - Going to Logout
+2023-12-18 21:39:29 INFO  Log:16 - ===================================== TEST ENDS =========================================
+2023-12-18 21:40:16 INFO  Log:16 - Launching browser
+2023-12-18 21:40:20 INFO  Log:16 - In first test
+2023-12-18 21:40:20 INFO  Log:16 - in second test
+2023-12-18 21:40:20 INFO  Log:16 - In third test
+2023-12-18 21:41:24 INFO  Log:16 - In first test
+2023-12-18 21:41:24 INFO  Log:16 - in second test
+2023-12-18 21:41:24 INFO  Log:16 - In third test
+2023-12-18 21:42:03 INFO  Log:16 - In first test
+2023-12-18 21:42:03 INFO  Log:16 - in second test
+2023-12-18 21:42:03 INFO  Log:16 - In third test
+2023-12-18 21:42:51 INFO  Log:16 - in second test
+2023-12-18 21:42:51 INFO  Log:16 - In third test
+2023-12-18 21:42:51 INFO  Log:16 - In first test
+2023-12-18 21:43:11 INFO  Log:16 - in second test
+2023-12-18 21:43:11 INFO  Log:16 - In third test
+2023-12-18 21:43:11 INFO  Log:16 - In first test
+2023-12-18 21:43:49 INFO  Log:16 - in second test
+2023-12-18 21:43:49 INFO  Log:16 - In first test
+2023-12-18 21:43:49 INFO  Log:16 - In third test
+2023-12-18 21:44:32 INFO  Log:16 - In first test
+2023-12-18 21:44:32 INFO  Log:16 - in second test
+2023-12-18 21:44:32 INFO  Log:16 - In third test
+2023-12-18 21:45:59 INFO  Log:16 - In first test
+2023-12-18 21:46:00 INFO  Log:16 - in second test
+2023-12-18 21:46:00 INFO  Log:16 - In third test
+2023-12-18 21:46:21 INFO  Log:16 - In first test
+2023-12-18 21:46:23 INFO  Log:16 - in second test
+2023-12-18 21:46:23 INFO  Log:16 - In third test
+2023-12-18 21:51:20 INFO  Log:16 - A1
+2023-12-18 21:51:22 INFO  Log:16 - A2
+2023-12-18 21:51:22 INFO  Log:16 - A3
+2023-12-18 21:52:36 INFO  Log:16 - A1
+2023-12-18 21:52:38 INFO  Log:16 - A2
+2023-12-18 21:52:38 INFO  Log:16 - B1
+2023-12-18 21:52:40 INFO  Log:16 - B2
+2023-12-18 21:52:40 INFO  Log:16 - A3
+2023-12-18 21:52:40 INFO  Log:16 - B3
+2023-12-18 21:53:39 INFO  Log:16 - A2
+2023-12-18 21:53:39 INFO  Log:16 - B2
+2023-12-18 21:53:39 INFO  Log:16 - A3
+2023-12-18 21:53:39 INFO  Log:16 - B3
+2023-12-18 21:53:39 INFO  Log:16 - A1
+2023-12-18 21:53:41 INFO  Log:16 - B1
+2023-12-18 21:55:18 INFO  Log:16 - A2
+2023-12-18 21:55:18 INFO  Log:16 - A3
+2023-12-18 21:55:18 INFO  Log:16 - A1
+2023-12-18 21:55:20 INFO  Log:16 - B2
+2023-12-18 21:55:20 INFO  Log:16 - B3
+2023-12-18 21:55:20 INFO  Log:16 - B1
+2023-12-18 21:59:45 INFO  Log:16 - A1
+2023-12-18 21:59:47 INFO  Log:16 - B2
+2023-12-18 21:59:47 INFO  Log:16 - B3
+2023-12-18 21:59:47 INFO  Log:16 - B1
+2023-12-18 22:02:49 INFO  Log:16 - A1
+2023-12-18 22:02:51 INFO  Log:16 - B2
+2023-12-18 22:02:51 INFO  Log:16 - B3
+2023-12-18 22:02:51 INFO  Log:16 - B1
+2023-12-18 22:04:04 INFO  Log:16 - A2
+2023-12-18 22:04:04 INFO  Log:16 - A3
+2023-12-18 22:04:04 INFO  Log:16 - B2
+2023-12-18 22:04:04 INFO  Log:16 - B3
+2023-12-18 22:04:04 INFO  Log:16 - B1
+2023-12-18 22:04:36 INFO  Log:16 - A2
+2023-12-18 22:04:36 INFO  Log:16 - A3
+2023-12-18 22:04:36 INFO  Log:16 - A1
+2023-12-18 22:04:55 INFO  Log:16 - A2
+2023-12-18 22:04:55 INFO  Log:16 - A3
+2023-12-18 22:04:55 INFO  Log:16 - A1
+2023-12-18 22:05:09 INFO  Log:16 - A2
+2023-12-18 22:05:09 INFO  Log:16 - B2
+2023-12-18 22:05:09 INFO  Log:16 - A3
+2023-12-18 22:05:09 INFO  Log:16 - B3
+2023-12-18 22:05:09 INFO  Log:16 - A1
+2023-12-18 22:05:11 INFO  Log:16 - B1
+2023-12-18 22:06:31 INFO  Log:16 - A2
+2023-12-18 22:06:31 INFO  Log:16 - B2
+2023-12-18 22:06:31 INFO  Log:16 - A3
+2023-12-18 22:06:31 INFO  Log:16 - B3
+2023-12-18 22:06:31 INFO  Log:16 - A1
+2023-12-18 22:06:33 INFO  Log:16 - B1
+2023-12-18 22:06:35 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 22:08:34 INFO  Log:16 - A2
+2023-12-18 22:08:34 INFO  Log:16 - B2
+2023-12-18 22:08:34 INFO  Log:16 - B3
+2023-12-18 22:08:34 INFO  Log:16 - A3
+2023-12-18 22:08:34 INFO  Log:16 - B1
+2023-12-18 22:08:34 INFO  Log:16 - A1
+2023-12-18 22:08:36 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 22:08:59 INFO  Log:16 - A2
+2023-12-18 22:08:59 INFO  Log:16 - B2
+2023-12-18 22:08:59 INFO  Log:16 - A3
+2023-12-18 22:08:59 INFO  Log:16 - B3
+2023-12-18 22:08:59 INFO  Log:16 - A1
+2023-12-18 22:09:01 INFO  Log:16 - B1
+2023-12-18 22:09:03 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 22:12:03 INFO  Log:16 - B2
+2023-12-18 22:12:03 INFO  Log:16 - A1
+2023-12-18 22:12:51 INFO  Log:16 - B2
+2023-12-18 22:12:51 INFO  Log:16 - B2
+2023-12-18 22:12:51 INFO  Log:16 - B2
+2023-12-18 22:12:51 INFO  Log:16 - A1
+2023-12-18 22:13:44 INFO  Log:16 - A1
+2023-12-18 22:24:55 INFO  Log:16 - B2
+2023-12-18 22:24:55 INFO  Log:16 - A1
+2023-12-18 22:25:18 INFO  Log:16 - A2
+2023-12-18 22:25:18 INFO  Log:16 - This test will fail
+2023-12-18 22:25:18 INFO  Log:16 - This test will fail
+2023-12-18 22:25:18 INFO  Log:16 - This test will fail
+2023-12-18 22:25:18 INFO  Log:16 - This test will fail
+2023-12-18 22:25:18 INFO  Log:16 - B3
+2023-12-18 22:25:18 INFO  Log:16 - A3
+2023-12-18 22:25:18 INFO  Log:16 - B1
+2023-12-18 22:25:20 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 22:26:20 INFO  Log:16 - A2
+2023-12-18 22:26:20 INFO  Log:16 - This test will fail
+2023-12-18 22:27:04 INFO  Log:16 - This test will fail
+2023-12-18 22:28:07 INFO  Log:16 - This test will fail
+2023-12-18 22:28:07 INFO  Log:16 - This test will fail
+2023-12-18 22:28:07 INFO  Log:16 - B3
+2023-12-18 22:28:07 INFO  Log:16 - A3
+2023-12-18 22:28:07 INFO  Log:16 - B1
+2023-12-18 22:31:49 INFO  Log:16 - A2
+2023-12-18 22:31:49 INFO  Log:16 - This test will fail
+2023-12-18 22:31:49 INFO  Log:16 - A3
+2023-12-18 22:31:49 INFO  Log:16 - B3
+2023-12-18 22:31:49 INFO  Log:16 - B1
+2023-12-18 22:31:51 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 22:32:11 INFO  Log:16 - This test will fail
+2023-12-18 22:32:11 INFO  Log:16 - A2
+2023-12-18 22:32:11 INFO  Log:16 - This test will fail
+2023-12-18 22:32:11 INFO  Log:16 - This test will fail
+2023-12-18 22:32:11 INFO  Log:16 - This test will fail
+2023-12-18 22:32:11 INFO  Log:16 - A3
+2023-12-18 22:32:11 INFO  Log:16 - B3
+2023-12-18 22:32:11 INFO  Log:16 - B1
+2023-12-18 22:32:13 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 22:32:40 INFO  Log:16 - A2
+2023-12-18 22:32:40 INFO  Log:16 - This test will fail
+2023-12-18 22:32:43 INFO  Log:16 - This test will fail
+2023-12-18 22:32:43 INFO  Log:16 - A2
+2023-12-18 22:32:43 INFO  Log:16 - This test will fail
+2023-12-18 22:32:43 INFO  Log:16 - This test will fail
+2023-12-18 22:32:43 INFO  Log:16 - This test will fail
+2023-12-18 22:32:43 INFO  Log:16 - B3
+2023-12-18 22:32:43 INFO  Log:16 - A3
+2023-12-18 22:32:43 INFO  Log:16 - B1
+2023-12-18 22:32:45 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 23:26:50 INFO  Log:16 - This test will fail
+2023-12-18 23:26:50 INFO  Log:16 - This test will fail
+2023-12-18 23:26:50 INFO  Log:16 - This test will fail
+2023-12-18 23:26:50 INFO  Log:16 - A3
+2023-12-18 23:26:50 INFO  Log:16 - B3
+2023-12-18 23:26:50 INFO  Log:16 - B1
+2023-12-18 23:43:52 INFO  Log:16 - A2
+2023-12-18 23:43:52 INFO  Log:16 - This test will fail
+2023-12-18 23:43:52 INFO  Log:16 - This test will fail
+2023-12-18 23:43:52 INFO  Log:16 - This test will fail
+2023-12-18 23:43:52 INFO  Log:16 - This test will fail
+2023-12-18 23:43:52 INFO  Log:16 - A3
+2023-12-18 23:43:52 INFO  Log:16 - B3
+2023-12-18 23:43:52 INFO  Log:16 - B1
+2023-12-18 23:43:54 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 23:45:05 INFO  Log:16 - This test will fail
+2023-12-18 23:45:05 INFO  Log:16 - This test will fail
+2023-12-18 23:45:05 INFO  Log:16 - A2
+2023-12-18 23:45:05 INFO  Log:16 - This test will fail
+2023-12-18 23:45:05 INFO  Log:16 - This test will fail
+2023-12-18 23:45:05 INFO  Log:16 - This test will fail
+2023-12-18 23:45:05 INFO  Log:16 - This test will fail
+2023-12-18 23:45:05 INFO  Log:16 - This test will fail
+2023-12-18 23:45:05 INFO  Log:16 - This test will fail
+2023-12-18 23:45:05 INFO  Log:16 - A3
+2023-12-18 23:45:05 INFO  Log:16 - B3
+2023-12-18 23:45:05 INFO  Log:16 - B1
+2023-12-18 23:45:07 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 23:45:57 INFO  Log:16 - A2
+2023-12-18 23:45:57 INFO  Log:16 - This test will fail
+2023-12-18 23:45:57 INFO  Log:16 - A3
+2023-12-18 23:45:57 INFO  Log:16 - B3
+2023-12-18 23:45:57 INFO  Log:16 - B1
+2023-12-18 23:45:59 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-18 23:47:04 INFO  Log:16 - A2
+2023-12-18 23:47:04 INFO  Log:16 - This test will fail
+2023-12-18 23:47:04 INFO  Log:16 - A3
+2023-12-18 23:47:04 INFO  Log:16 - B3
+2023-12-18 23:47:04 INFO  Log:16 - B1
+2023-12-18 23:47:06 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-19 08:49:49 INFO  Log:16 - This test will fail
+2023-12-19 08:49:49 INFO  Log:16 - A2
+2023-12-19 08:49:49 INFO  Log:16 - B3
+2023-12-19 08:49:49 INFO  Log:16 - A3
+2023-12-19 08:49:49 INFO  Log:16 - B1
+2023-12-19 08:49:51 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-19 08:51:30 INFO  Log:16 - A2
+2023-12-19 08:51:30 INFO  Log:16 - This test will fail
+2023-12-19 08:51:30 INFO  Log:16 - A3
+2023-12-19 08:51:30 INFO  Log:16 - B3
+2023-12-19 08:51:30 INFO  Log:16 - B1
+2023-12-19 08:51:32 INFO  Log:16 - *********************** Test Ends here ************************
+2023-12-19 08:54:28 INFO  Log:16 - A2
+2023-12-19 08:54:28 INFO  Log:16 - This test will fail
+2023-12-19 08:54:28 INFO  Log:16 - B3
+2023-12-19 08:54:28 INFO  Log:16 - A3
+2023-12-19 08:54:28 INFO  Log:16 - B1
+2023-12-19 08:54:30 INFO  Log:16 - *********************** Test Ends here ************************
